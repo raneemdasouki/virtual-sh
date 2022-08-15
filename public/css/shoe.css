@@ -1,0 +1,555 @@
+
+body{
+  background-image: url(../images/shoes/r.jpg);
+  /* background-image: url(shoes/r.jpg); */
+  background-size: 100vw 100vh;
+  background-attachment:scroll;
+  background-repeat: no-repeat;
+}
+img{
+  cursor: pointer;
+}
+
+#getImage1 {
+    position: absolute;
+      top:32% ;
+      left: 6%;
+     
+    
+     position: fixed;
+    background-size: cover;
+    
+      width: 5.5%;
+      height: 12%;  
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    
+#getImage2 {
+    position: absolute;
+      top:35.5% ;
+      left:13.5%;
+     
+    
+     position: fixed;
+    background-size: cover;
+    
+      width:5%;
+      height: 10.8%;  
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+ #getImage3 {
+    position: absolute;
+     top:38.3% ;
+     left:19.8%;
+         
+        
+     position: fixed;
+    background-size: cover;
+        
+     width: 5.5%;
+     height: 10%;  
+     margin-right: 0px;
+    margin-bottom: 0px;
+          
+    }
+ #getImage4 {
+  position: absolute;
+     top:43.8% ;
+     left:6.3%;
+             
+            
+     position: fixed;
+     background-size: cover;
+            
+      width: 5.2%;
+      height: 12%;  
+      margin-right: 0px;
+     margin-bottom: 0px;
+              
+ } 
+ #getImage11 {
+  position: absolute;
+     top:46.1% ;
+     left:20.2%;
+             
+            
+     position: fixed;
+     background-size: cover;
+            
+      width:5%;
+      height: 9%;  
+      margin-right: 0px;
+     margin-bottom: 0px;
+              
+ }
+ #getImage12 {
+  position: absolute;
+     top:45% ;
+     left:14.2%;
+             
+            
+     position: fixed;
+     background-size: cover;
+            
+      width: 5.2%;
+      height: 11%;  
+      margin-right: 0px;
+     margin-bottom: 0px;
+              
+            }
+ #getImage5 {
+   position: absolute;
+      /* padding-bottom:60px ; */
+     top: 35.5%;
+    left: 80%;
+               
+     position: fixed;
+     background-size: cover;
+              
+     width: 5.5%;
+     height: 9.5%;  
+    margin-right: 0px;
+   margin-bottom: 0px;
+                
+   }
+  #getImage6{
+   position: absolute;
+   top:37.3% ;
+      right: 21.7%;
+              
+   position: fixed;
+   width: 5%;
+   height:10.5%;  
+   margin-right: 0px;
+  margin-bottom: 0px;
+                
+  }
+  #getImage7 {
+
+   position: absolute;
+  top: 32.3% ;
+    right: 6%;
+    position: fixed;
+                
+ /* background-size: cover; */
+     width: 6.2%;
+     height: 10.5%;  
+                
+    margin-right: 0px;
+ margin-bottom: 0px;
+ }
+ #getImage8 {
+
+  position: absolute;
+   top:46% ;
+  right: 6.3%;
+   position: fixed;
+                  
+   /* background-size: cover; */
+   width: 6%;
+   height: 11.5%;  
+                  
+  margin-right: 0px;
+   margin-bottom: 0px;
+                  
+  }
+  #getImage9 {
+
+   position: absolute;
+   top:45% ;
+  right:15%;
+   position: fixed;
+                  
+    /* background-size: cover; */
+    width: 4.8%;
+    height: 9.8%;  
+                    
+   margin-right: 0px;
+    margin-bottom: 0px;
+                    
+                  }
+ #getImage10 {
+   position: absolute;
+   top:47.5% ;
+    right: 21.7%;
+                  
+   position: fixed;
+   width: 4.3%;
+   height:7.8%;  
+   margin-right: 0px;
+   margin-bottom: 0px;
+                    
+                  
+                  }
+#getImage13 {
+ position: absolute;
+   top:41.7% ;
+   left: 55.5%;
+     
+    
+     position: fixed;
+    background-size: cover;
+    
+      width: 4.3%;
+      height: 7.8%;  
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+#getImage14 {
+  position: absolute;
+  top:42% ;
+  left: 47%;
+       
+      
+  position: fixed;
+  background-size: cover;
+      
+  width: 3.8%;
+  height: 7.6%;  
+  margin-right: 0px;
+  margin-bottom: 0px;
+        
+      }
+ #getImage15 {
+ position: absolute;
+   top:46.2% ;
+   left: 55.4%;
+         
+        
+  position: fixed;
+   background-size: cover;
+        
+  width: 5%;
+  height: 11.5%;  
+  margin-right: 0px;
+  margin-bottom: 0px;
+          
+        }
+ #getImage16 {
+ position: absolute;
+   top:43.3% ;
+   left:46%;
+           
+          
+   position: fixed;
+   background-size: cover;
+          
+   width: 5%;
+   height: 12%;  
+   margin-right: 0px;
+   margin-bottom: 0px;
+            
+          }
+#getImage17{
+ position: absolute;
+  top:48% ;
+   left: 37.3%;
+             
+            
+ position: fixed;
+ background-size: cover;
+            
+  width: 3.5%;
+  height: 7.8%;  
+  margin-right: 0px;
+  margin-bottom: 0px;
+              
+            }
+#getImage18 {
+    position: absolute;
+      top:41.3% ;
+      left: 37.8%;
+     
+    
+     position: fixed;
+    background-size: cover;
+    
+      width: 3.2%;
+      height: 7.6%;  
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage19 {
+  
+      position: absolute;
+      top: 52.5%; 
+      right: 74.8%;
+   position: fixed;
+  
+  background-size: cover;
+  width:5.5%;
+  height: 14.8%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    } 
+    #getImage20 {
+    
+      position: absolute;
+      top: 56.3%; 
+      right: 50%;
+   position: fixed;
+  
+  background-size: cover;
+  width:5.8%;
+  height: 12.8%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    } 
+    #getImage21 {
+    
+      position: absolute;
+      top: 71.3%; 
+      right: 50%;
+   position: fixed;
+  
+  background-size: cover;
+  width:4%;
+  height: 9%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage22 {
+    
+      position: absolute;
+      top: 55.7%; 
+      right: 22%;
+   position: fixed;
+  
+  background-size: cover;
+  width:4%;
+  height: 8%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage23 {
+    
+      position: absolute;
+      top:53% ;
+      right: 7.4%;
+   position: fixed;
+  
+  background-size: cover;
+  width:7.8%;
+  height: 15.5%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage24 {
+    
+      position: absolute;
+      top: 56.5%; 
+      right: 80.6%;
+   position: fixed;
+  
+  background-size: cover;
+  width:6.4%;
+  height: 9%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage25{
+    
+      position: absolute;
+      top: 52.5%; 
+      right: 38%;
+   position: fixed;
+  
+  background-size: cover;
+  width:4.8%;
+  height: 9.5%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage26 {
+    
+      position: absolute;
+      top: 54.3%; 
+      right: 60.5%;
+   position: fixed;
+  
+  background-size: cover;
+  width:4.3%;
+  height: 7.6%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage27 {
+    
+      position: absolute;
+      top: 65.2%; 
+      right: 50%;
+   position: fixed;
+  
+  background-size: cover;
+  width:4.5%;
+  height: 8.4%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage28 {
+    
+      position: absolute;
+      top: 56.9%; 
+      right: 87.8%;
+   position: fixed;
+  
+  background-size: cover;
+  width:6%;
+  height: 12.7%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    #getImage29 {
+    
+      position: absolute;
+      top: 56.3%; 
+      right: 15%;
+   position: fixed;
+  
+  background-size: cover;
+  width:5.2%;
+  height: 10.2%;  
+      
+      margin-right: 0px;
+      margin-bottom: 0px;
+      
+    }
+    /* .modal_item{ 
+      width:30%;
+      height: 10.2%;
+    } */
+    #getImage2:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage1:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage3:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage4:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage5:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage6:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage7:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage8:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage9:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage10:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage11:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage12:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage13:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage14:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage15:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage16:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage17:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage18:hover{
+      transform: scale(110%,110%);
+    }
+    #getImage19:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage20:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage21:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage22:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage23:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage24:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage25:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage26:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage27:hover{
+      transform: scale(130%,130%);
+    }
+    #getImage28:hover{
+      transform: scale(140%,140%);
+    }
+    #getImage29:hover{
+      transform: scale(110%,110%);
+    }
+
+    #card{
+      width: 445px;
+  height: 350px;
+  background-color: white;
+  margin-top: 420px;
+  padding: 10px;
+  
+    }
+    .cart-column{
+      padding-left: 29px;
+    }
+    .cart-total-title{
+      padding-left: 176px;
+      
+    }
+    .btn-purchase{
+      padding-left: 176px;
+    }
+
+                
+  

@@ -1,0 +1,1049 @@
+body{
+    background-image: url(../images/food_img/food2.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:scroll;
+    background-repeat: no-repeat;
+
+}
+/* colm 1 start  */
+/* row 1 start  */
+img{
+  cursor: pointer;
+}
+#carti{
+  position: relative;
+  height: 200%;
+}
+#getImage1 {
+    position: absolute;
+    top: 18.3%;
+    left: 7.2%;
+    position: fixed;
+    background-size: cover;
+    width:4.3%;
+    height: 9%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+ #getImage1:hover{
+  transform: scale(110%,110%) ;
+  }
+
+#getImage2 {
+    position: absolute;
+    top: 20%;
+    left: 16.8%;
+    position: fixed;
+    background-size: cover;
+    width:4.3%;
+    height: 8%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage2:hover{
+    transform: scale(110%,110%) ;
+    }
+  #getImage3{
+    position: absolute;
+    top: 21.8%;
+    left: 26.8%;
+    position: fixed;
+    background-size: cover;
+    width:4%;
+    height: 7%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage3:hover{
+    transform: scale(110%,110%) ;
+    }
+  /* row 1 end  */
+
+  /* row 2 start  */
+  #getImage4 {
+    position: absolute;
+    top: 31%;
+    left: 8%;
+    position: fixed;
+    background-size: cover;
+    width:4%;
+    height:9%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage4:hover{
+    transform: scale(110%,110%) ;
+    }
+  #getImage5 {
+    position: absolute;
+    top: 31.9%;
+    left: 18%;
+    position: fixed;
+    background-size: cover;
+    width:3%;
+    height:8%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage5:hover{
+    transform: scale(110%,110%) ;
+    }
+  #getImage6 {
+    position: absolute;
+    top: 31.7%;
+    left: 27.5%;
+    position: fixed;
+    background-size: cover;
+    width:4%;
+    height:8%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage6:hover{
+    transform: scale(110%,110%) ;
+    }
+  /* row 2 end  */
+
+
+  /* row 3 start  */
+
+    #getImage7 {
+    position: absolute;
+    top: 42.8%;
+    left: 8.6%;
+    position: fixed;
+    background-size: cover;
+    width:4%;
+    height:7.8%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+#getImage7:hover{
+  transform: scale(110%,110%) ;
+  }
+ #getImage8 {
+    position: absolute;
+    top: 43%;
+    left: 18.5%;
+    position: fixed;
+    background-size: cover;
+    width:3.5%;
+    height: 7.8%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage8:hover{
+    transform: scale(110%,110%) ;
+    }
+  #getImage9 {
+    position: absolute;
+    top: 42.5%;
+    left: 27.5%;
+    position: fixed;
+    background-size: cover;
+    width:4.2%;
+    height:10%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #getImage9:hover{
+    transform: scale(110%,110%) ;
+    }
+  /* row 3 end  */
+
+/* row 4 start */
+  #getImage10 {
+    position: absolute;
+    top: 54.8%;
+    left:8.9%;
+    position: fixed;
+    background-size: cover;
+    width:2.5%;
+    height:7.5%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    }
+    #getImage10:hover{
+      transform: scale(110%,110%) ;
+      }
+  #getImage11 {
+    position: absolute;
+    top: 55%;
+    left:18.9%;
+    position: fixed;
+    background-size: cover;
+    width:3.5%;
+    height:7.5%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    }
+    #getImage11:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage12 {
+    position: absolute;
+    top: 55%;
+    left:28.9%;
+    position: fixed;
+    background-size: cover;
+    width:3.3%;
+    height:7%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    }
+    #getImage12:hover{
+      transform: scale(110%,110%) ;
+      }
+    /* row 4 end  */
+
+    /* row 5 start  */
+    #getImage13{
+        position: absolute;
+        top: 66.5%;
+        left:8.9%;
+        position: fixed;
+        background-size: cover;
+        width:2.6%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage13:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage14 {
+        position: absolute;
+        top: 66%;
+        left:18.9%;
+        position: fixed;
+        background-size: cover;
+        width:2.8%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage14:hover{
+        transform: scale(110%,110%) ;
+        }
+      #getImage15 {
+        position: absolute;
+        top: 65.5%;
+        left:28.9%;
+        position: fixed;
+        background-size: cover;
+        width:3.7%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage15:hover{
+        transform: scale(110%,110%) ;
+        }
+      /* row 5 end  */
+
+      /* row 6 start  */
+      #getImage16 {
+        position: absolute;
+        top: 78%;
+        left:8.9%;
+        position: fixed;
+        background-size: cover;
+        width:3.7%;
+        height:9%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage16:hover{
+        transform: scale(110%,110%) ;
+        }
+      #getImage17 {
+        position: absolute;
+        top: 77%;
+        left:18.9%;
+        position: fixed;
+        background-size: cover;
+        width:2.5%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage17:hover{
+        transform: scale(110%,110%) ;
+        }
+      #getImage18 {
+        position: absolute;
+        top: 76%;
+        left:28.9%;
+        position: fixed;
+        background-size: cover;
+        width:3.5%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage18:hover{
+        transform: scale(110%,110%) ;
+        }
+      /* row 6 end  */
+      /* end colm 1  */
+
+      /* start colm 2  */
+      /* row 1 start  */
+      #getImage19 {
+        position: absolute;
+        top: 22.5%;
+        left: 39%;
+        position: fixed;
+        background-size: cover;
+        width:2.5%;
+        height: 7.5%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage19:hover{
+        transform: scale(110%,110%) ;
+        }
+      #getImage20 {
+        position: absolute;
+        top: 23.7%;
+        left: 46%;
+        position: fixed;
+        background-size: cover;
+        width:4%;
+        height: 7%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage20:hover{
+        transform: scale(110%,110%) ;
+        }
+      #getImage21 {
+        position: absolute;
+        top: 24.5%;
+        left: 53%;
+        position: fixed;
+        background-size: cover;
+        width:3.5%;
+        height:7.8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+      }
+      #getImage21:hover{
+        transform: scale(110%,110%) ;
+        }
+      /* row 1 end  */
+
+      /* row 2 start  */
+      #getImage22 {
+        position: absolute;
+        top: 33.5%;
+        left: 39%;
+        position: fixed;
+        background-size: cover;
+        width:4.3%;
+        height: 8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage22:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage23 {
+        position: absolute;
+        top: 33.5%;
+        left: 45.5%;
+        position: fixed;
+        background-size: cover;
+        width:3.5%;
+        height:8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage23:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage24 {
+        position: absolute;
+        top: 34%;
+        left: 52%;
+        position: fixed;
+        background-size: cover;
+        width:4.5%;
+        height:8.5%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage24:hover{
+      transform: scale(110%,110%) ;
+      }
+/* row 2 end  */
+
+    /* row 3 start  */
+    #getImage25 {
+        position: absolute;
+        top: 42.5%;
+        left: 39%;
+        position: fixed;
+        background-size: cover;
+        width: 5.5%;
+        height: 11%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage25:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage26 {
+        position: absolute;
+        top: 44.2%;
+        left: 46%;
+        position: fixed;
+        background-size: cover;
+        width:3.5%;
+        height: 8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage26:hover{
+      transform: scale(110%,110%) ;
+      }
+    #getImage27 {
+        position: absolute;
+        top: 44.2%;
+        left: 52.5%;
+        position: fixed;
+        background-size: cover;
+        width:4.6%;
+        height: 8%;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #getImage27:hover{
+      transform: scale(110%,110%) ;
+      }
+/* row 3 end  */
+
+    /* row 4 start  */
+    #getImage28 {
+      position: absolute;
+      top: 53%;
+      left: 39%;
+      position: fixed;
+      background-size: cover;
+      width:4.6%;
+      height: 9%;
+      margin-right: 0px;
+      margin-bottom: 0px;
+  }
+  #getImage28:hover{
+    transform: scale(110%,110%) ;
+    }
+  #getImage29 {
+    position: absolute;
+    top: 53%;
+    left: 45%;
+    position: fixed;
+    background-size: cover;
+    width:4.6%;
+    height: 9%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+#getImage29:hover{
+  transform: scale(110%,110%) ;
+  }
+   #getImage30 {
+  position: absolute;
+  top: 53%;
+  left: 52%;
+  position: fixed;
+  background-size: cover;
+  width:4.5%;
+  height: 8.5%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage30:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 4 end  */
+
+/* row 5 start  */
+#getImage31 {
+  position: absolute;
+  top: 63.8%;
+  left: 39%;
+  position: fixed;
+  background-size: cover;
+  width:3.8%;
+  height: 8.2%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage31:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage32 {
+  position: absolute;
+  top: 63.5%;
+  left: 45.6%;
+  position: fixed;
+  background-size: cover;
+  width:3.7%;
+  height: 9%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage32:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage33 {
+  position: absolute;
+  top: 63%;
+  left: 52%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height: 8%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage33:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 5 end  */
+
+/* row 6 start  */
+#getImage34 {
+  position: absolute;
+  top: 74.5%;
+  left: 39%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:8.4%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage34:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage35 {
+  position: absolute;
+  top: 72.7%;
+  left: 46%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:10.5%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage35:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage36 {
+  position: absolute;
+  top: 73%;
+  left: 53%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height: 8%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage36:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 6 end  */
+/* end colm 2  */
+
+/* start colm 3  */
+/* row 1 start  */
+#getImage37 {
+  position: absolute;
+  top: 28%;
+  left:64%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:6%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage37:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage38 {
+  position: absolute;
+  top: 29%;
+  left: 69%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height: 6%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage38:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage39 {
+  position: absolute;
+  top: 29%;
+  left: 73.7%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:6%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage39:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 1 end  */
+
+/* row 2 start  */
+
+#getImage40 {
+  position: absolute;
+  top: 37.2%;
+  left:64%;
+  position: fixed;
+  background-size: cover;
+  width:5%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage40:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage41 {
+  position: absolute;
+  top: 37.9%;
+  left:69.5%;
+  position: fixed;
+  background-size: cover;
+  width:3.6%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage41:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage42 {
+  position: absolute;
+  top: 37.8%;
+  left:73.5%;
+  position: fixed;
+  background-size: cover;
+  width:4.8%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage42:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 2 end  */
+
+/* row 3 start  */
+#getImage43 {
+  position: absolute;
+  top:45.3%;
+  left:64.2%;
+  position: fixed;
+  background-size: cover;
+  width:2.6%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage43:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage44 {
+  position: absolute;
+  top: 45.3%;
+  left:69.3%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:7.3%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage44:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage45 {
+  position: absolute;
+  top: 45.5%;
+  left:74.5%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:7.4%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage45:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 3 end  */
+
+/* row 4 start  */
+#getImage46{
+  position: absolute;
+  top:55%;
+  left:64.2%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage46:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage47{
+  position: absolute;
+  top:54%;
+  left:69%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:9%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage47:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage48{
+  position: absolute;
+  top:55%;
+  left:74%;
+  position: fixed;
+  background-size: cover;
+  width:2.6%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage48:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 4 end  */
+
+/* row 5 start  */
+#getImage49{
+  position: absolute;
+  top:64%;
+  left:64.2%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage49:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage50{
+  position: absolute;
+  top:63.7%;
+  left:70%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage50:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage51{
+  position: absolute;
+  top:63.6%;
+  left:75%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage51:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 5 end  */
+/* end colm 3  */
+
+
+/* start colm 4  */
+/* row 1 start  */
+#getImage52{
+  position: absolute;
+  top: 29.5%;
+  left:83%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage52:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage53{
+  position: absolute;
+  top: 30%;
+  left:88%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}#getImage53:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage54{
+  position: absolute;
+  top: 31%;
+  left:93%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:6%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage54:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 1 end  */
+
+/* row 2 start  */
+#getImage55{
+  position: absolute;
+  top: 38.2%;
+  left:83%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:6%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage55:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage56{
+  position: absolute;
+  top: 38%;
+  left:88%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage56:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage57{
+  position: absolute;
+  top: 38%;
+  left:93%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage57:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 2 end  */
+
+
+/* row 3 start  */
+#getImage58{
+  position: absolute;
+  top: 46%;
+  left:83%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage58:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage59{
+  position: absolute;
+  top: 46.2%;
+  left:88%;
+  position: fixed;
+  background-size: cover;
+  width:3%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage59:hover{
+  transform: scale(110%,110%) ;
+  }
+
+#getImage60{
+  position: absolute;
+  top: 46%;
+  left:93%;
+  position: fixed;
+  background-size: cover;
+  width:4.5%;
+  height:8%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage60:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 3 end  */
+
+
+/* row 4 start  */
+#getImage61{
+  position: absolute;
+  top: 54%;
+  left:83%;
+  position: fixed;
+  background-size: cover;
+  width:4.5%;
+  height:8.5%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage61:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage62{
+  position: absolute;
+  top: 54%;
+  left:88%;
+  position: fixed;
+  background-size: cover;
+  width:4.3%;
+  height:8%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage62:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage63{
+  position: absolute;
+  top: 54.5%;
+  left:93%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage63:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 4 end  */
+
+
+/* row 5 start  */
+#getImage64{
+  position: absolute;
+  top: 62%;
+  left:83%;
+  position: fixed;
+  background-size: cover;
+  width:4.5%;
+  height:8.5%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage64:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage65{
+  position: absolute;
+  top: 63%;
+  left:89%;
+  position: fixed;
+  background-size: cover;
+  width:3.5%;
+  height:7%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage65:hover{
+  transform: scale(110%,110%) ;
+  }
+#getImage66{
+  position: absolute;
+  top: 61.5%;
+  left:93%;
+  position: fixed;
+  background-size: cover;
+  width:4%;
+  height:8%;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#getImage66:hover{
+  transform: scale(110%,110%) ;
+  }
+/* row 5 end  */
+/* end colm 4  */
+
+/*
+.d:hover{
+  transform: scale(110%,110%) ;
+} */
+
+#card{
+  width: 445px;
+height: 350px;
+background-color: white;
+margin-top: 420px;
+padding: 10px;
+
+}
+.cart-column{
+  padding-left: 29px;
+}
+.cart-total-title{
+  padding-left: 176px;
+
+}
+.btn-purchase{
+  padding-left: 176px;
+}
+
+
+
+
+
+

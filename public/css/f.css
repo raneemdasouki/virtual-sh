@@ -1,0 +1,667 @@
+
+
+        body{
+            width: 100vw;
+            height: 100vh;
+            background-image: url(../images/flower/back.jpg);
+            background-attachment:scroll;
+            background-repeat: no-repeat;
+            background-size: 100vw 100vh;
+            overflow: hidden;
+             padding: 0%;
+             margin: 0%;
+            position: fixed;
+            top: 0%;
+            right: 0%;
+        }
+       
+
+        #carti{
+            width: 80px;
+            position: absolute;
+            top: 3%;
+            left: 0%;
+           
+        }
+        .shop-item-button{
+            width: 16%;
+            height: 66%;
+            position: absolute;
+            top: 8px;
+            right: 71px;
+        }
+        .shop-item-price{
+            font-family: cursive;
+            font-size: 21px;
+            position: absolute;
+            top: 17px;
+         right: 214px;
+        }
+    .shop-item-title{
+        font-family: cursive;
+        font-size: 21px;
+        position: absolute;
+        top: 17px;
+        right: 396px;
+
+    }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0 1.5em;
+            max-height: 700px;
+        }
+        .content-section {
+            margin: 1em;
+        }
+        .section-header {
+            font-family: "Metal Mania";
+            font-weight: normal;
+            color: #333;
+            text-align: center;
+            font-size: 2.5em;
+        }
+        .cart-row {
+            display: flex;
+        }
+        .cart-item {
+            width: 45%;
+        }
+    
+        .cart-item-title {
+            color: #333;
+            margin-left: .5em;
+            font-size: 1.2em;
+        }
+        .cart-total-title {
+            font-weight: bold;
+            font-size: 1.5em;
+            color: black;
+            margin-right: 20px;
+        }
+        .cart-column {
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid black;
+            margin-right: 1.5em;
+            padding-bottom: 10px;
+            margin-top: 10px;
+        }
+        .cart-price {
+            width: 20%;
+            font-size: 1.2em;
+            color: #333;
+        }
+        .cart-quantity{
+            margin-right: 10px;
+        }
+        
+        .cart-quantity {
+            width: 35%;
+        }
+        .cart-quantity-input {
+            height: 34px;
+            width: 50px;
+            border-radius: 5px;
+            border: 1px solid #56CCF2;
+            background-color: #eee;
+            color: #333;
+            padding: 0;
+            text-align: center;
+            font-size: 1.2em;
+            margin-right: 25px;
+        }
+        .cart-total {
+            text-align: end;
+            margin-top: 10px;
+            margin-right: 10px;
+        }        
+        .cart-total-price {
+            color: #333;
+            font-size: 1.1em;
+        }
+        .btn-header {
+            margin: .5em 15% 2em 15%;
+            color: white;
+            border: 2px solid #2D9CDB;
+            background-color: rgba(255, 255, 255, .1);
+            border-radius: 0;
+            font-size: 1.5em;
+            font-weight: lighter;
+            padding-left: 2em;
+            padding-right: 2em;
+         
+        }
+        
+        .btn-header:hover {
+            background-color: rgba(255, 255, 255, .3);
+        }
+        
+        .btn-play {
+            display: block;
+            margin: 0 auto;
+            color: #2D9CDB;
+            font-size: 4em;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            padding: 0;
+            text-align: center;
+        }
+        
+        /* .btn-primary {
+            color: white;
+            background-color: #56CCF2;
+            border: none;
+            border-radius: .3em;
+            font-weight: bold;
+        } */
+        .btn-primary:hover {
+            background-color: #2D9CDB;
+        }
+        .shop-item{
+            display: flex;
+        }
+        .btn-purchase {
+            display: block;
+           
+            font-size: 10px;
+            
+           
+         
+        
+            width: 114px;
+            
+          align-items: flex-end;
+        }
+        .btn-danger:hover {
+            background-color: #CC4C4C;
+        }
+.btn {
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em .67em;
+    cursor: pointer;
+}
+
+#modal17{
+    width: 500px;
+max-width: 80%;
+height: 363px;
+overflow-y: scroll;
+overflow-x: hidden;
+}
+.modal{
+    height: 70px
+}
+#add{
+    font-family: cursive;
+    font-size: 21px;
+    margin-left: 83px;
+}
+#close{
+    color: white;
+    margin-left: 477px;
+    background-color: black;
+}
+.sh1{
+    top: 8%;
+right: 69%;
+position: fixed;
+width: 25%;
+height: 19%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+
+.sh2{
+    top: 27%;
+right: 69%;
+position: fixed;
+width: 25%;
+height: 19%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh3{
+    top: 47%;
+    right: 69%;
+    position: fixed;
+    width: 24%;
+    height: 19%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.sh4{
+    top: 69%;
+right: 70%;
+position: fixed;
+width: 24%;
+height: 19%;
+margin-right: 0px;
+margin-bottom: 0px;}
+.sh5{
+    top: 8%;
+right: 48%;
+position: fixed;
+width: 18%;
+height: 19%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh6{
+    top: 25%;
+    right: 48%;
+    position: fixed;
+    width: 18%;
+    height: 19%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.sh7{
+    top: 43%;
+right: 48%;
+position: fixed;
+width: 18%;
+height: 19%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh8{
+    top: 60%;
+    right: 48%;
+    position: fixed;
+    width: 18%;
+    height: 19%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.sh9{
+    top: 9%;
+right: 27%;
+position: fixed;
+width: 21%;
+height: 17%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh10{
+    top: 26%;
+right: 27%;
+position: fixed;
+width: 21%;
+height: 17%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh11{
+    top: 45%;
+right: 27%;
+position: fixed;
+width: 21%;
+height: 17%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh12{
+    top: 64%;
+right: 27%;
+position: fixed;
+width: 21%;
+height: 17%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh13{
+    top: 7%;
+right: 2%;
+position: fixed;
+width: 24%;
+height: 20%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh14{
+    top: 26%;
+right: 2%;
+position: fixed;
+width: 24%;
+height: 20%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.sh15{
+    top: 47%;
+    right: 11%;
+    position: fixed;
+    width: 10%;
+    height: 20%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.sh16{
+    top: 67%;
+right: 2%;
+position: fixed;
+width: 24%;
+height: 20%;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+
+#im1{
+    width: 57%;
+    height: 105%;
+    position: absolute;
+    top: -2%;
+    right: 34%;
+} 
+#im18{
+    width: 45%;
+    height: 102%;
+    position: absolute;
+    top: -3%;
+    right: 34%;
+} 
+#im19{
+    width: 58%;
+    height: 96%;
+    position: absolute;
+    top: 4%;
+    right: 35%;
+}
+#im20{
+    width: 44%;
+    height: 83%;
+    position: absolute;
+    top: 11%;
+    right: 34%;
+}
+#im21{
+    width: 48%;
+    height: 92%;
+    position: absolute;
+    top: -11%;
+    right: 27%;
+}
+#im22{
+    width: 61%;
+    height: 118%;
+    position: absolute;
+    top: -13%;
+    right: 25%;
+}
+#im23{
+    width: 51%;
+    height: 111%;
+    position: absolute;
+    top: -12%;
+    right: 23%;
+}
+#im24{
+    width: 86%;
+    height: 81%;
+    position: absolute;
+    top: 5%;
+    right: 6%;
+}
+#im25{
+    width: 55%;
+    height: 83%;
+    position: absolute;
+    top: 5%;
+    right: 23%;
+}
+#im26{
+    width: 62%;
+    height: 98%;
+    position: absolute;
+    top: -1%;
+    right: 22%}
+#im27{
+    width: 47%;
+height: 101%;
+position: absolute;
+top: 10%;
+right: 27%;
+}
+#im28{
+    width: 44%;
+    height: 108%;
+    position: absolute;
+    top: -4%;
+    right: 31%;}
+    #im29{
+        width: 49%;
+        height: 93%;
+        position: absolute;
+        top: 5%;
+        right: 29%;
+    }
+#im2{
+    width: 58%;
+    height: 87%;
+    position: absolute;
+    top: 14%;
+    right: 29%;
+}
+
+#im3{
+    width: 46%;
+    height: 96%;
+    position: absolute;
+    top: 4%;
+    right: 36%;
+}
+#im4{
+    width: 46%;
+    height: 93%;
+    position: absolute;
+    top: -6%;
+    right: 35%;
+}
+#im5{
+    width: 51%;
+    height: 112%;
+    position: absolute;
+    top: -13%;
+    right: 25%;
+}
+
+#im6{
+    width: 51%;
+    height: 96%;
+    position: absolute;
+    top: -1%;
+    right: 23%;
+}
+
+#im7{
+    width: 51%;
+height: 93%;
+position: absolute;
+top: 0%;
+right: 23%;
+}
+#im8{
+    width: 51%;
+height: 93%;
+position: absolute;
+top: 4%;
+right: 23%;
+}
+#im9{
+    width: 73%;
+height: 114%;
+position: absolute;
+top: -10%;
+right: 30%;}
+#im10{
+    width: 47%;
+height: 101%;
+position: absolute;
+top: 10%;
+right: 27%;
+}
+#im11{
+    width: 44%;
+height: 141%;
+position: absolute;
+top: -32%;
+right: 34%;}
+
+#im12{
+    width: 49%;
+    height: 152%;
+    position: absolute;
+    top: -39%;
+    right: 29%;
+}
+#im30{
+    width: 59%;
+    height: 90%;
+    position: absolute;
+    top: 2%;
+    right: 24%;
+}
+#im13{
+    width: 54%;
+    height: 102%;
+    position: absolute;
+    top: -2%;
+    right: 24%;
+}
+#im14{
+    width: 59%;
+height: 159%;
+position: absolute;
+top: -48%;
+right: 30%;
+}
+
+
+#im15{
+width: 67%;
+height: 100%;
+position: absolute;
+top: -3%;
+right: 23%;
+}
+#im16{
+    width: 35%;
+height: 103%;
+position: absolute;
+top: -4%;
+right: 42%;
+}
+#im16:hover{
+    transform: scale(110%,110%);
+  }
+  #im15:hover{
+    transform: scale(110%,110%);
+  }
+  #im14:hover{
+    transform: scale(110%,110%);
+  }
+  #im13:hover{
+    transform: scale(110%,110%);
+  }
+  #im12:hover{
+    transform: scale(110%,110%);
+  }
+  #im11:hover{
+    transform: scale(110%,110%);
+  }
+  #im10:hover{
+    transform: scale(110%,110%);
+  }
+  #im9:hover{
+    transform: scale(110%,110%);
+  }
+  #im8:hover{
+    transform: scale(110%,110%);
+  }
+  #im7:hover{
+    transform: scale(110%,110%);
+  }
+  #im6:hover{
+    transform: scale(110%,110%);
+  }
+  #im5:hover{
+    transform: scale(110%,110%);
+  }
+  #im4:hover{
+    transform: scale(110%,110%);
+  }
+  #im3:hover{
+    transform: scale(110%,110%);
+  }
+  #im2:hover{
+    transform: scale(110%,110%);
+  }
+  #im1:hover{
+    transform: scale(110%,110%);}
+
+    /* .shop-item-button{
+        transform: scale(100%,100%);
+    } */
+    #carti:hover{
+        transform: scale(110%,110%);
+    }
+    #im18:hover{
+        transform: scale(110%,110%);
+      }
+      #im19:hover{
+        transform: scale(110%,110%);
+      }
+      #im20:hover{
+        transform: scale(110%,110%);
+      }
+      #im21:hover{
+        transform: scale(110%,110%);
+      }
+      #im22:hover{
+        transform: scale(110%,110%);
+      }
+      #im23:hover{
+        transform: scale(110%,110%);
+      }
+      #im24:hover{
+        transform: scale(110%,110%);
+      }
+      #im25:hover{
+        transform: scale(110%,110%);
+      }
+      #im26:hover{
+        transform: scale(110%,110%);
+      }
+      #im27:hover{
+        transform: scale(110%,110%);
+      }
+      #im28:hover{
+        transform: scale(110%,110%);
+      }
+      #im28:hover{
+        transform: scale(110%,110%);
+      }
+      #im29:hover{
+        transform: scale(110%,110%);
+      }
+      #im30:hover{
+        transform: scale(110%,110%);
+      }
+      #im31:hover{
+        transform: scale(110%,110%);
+      }
+      #im32:hover{
+        transform: scale(110%,110%);
+      }
+      #im33:hover{
+        transform: scale(110%,110%);
+      }
+  /* 
+  } */
+  /* #sh1:hover{
+    transform: scale(110%,110%);
+  } */
